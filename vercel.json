@@ -1,0 +1,6 @@
+{
+  "framework": "nextjs",
+  "installCommand": "cd meu-portifolio && npm install",
+  "buildCommand": "cd meu-portifolio && npm run build",
+  "outputDirectory": "meu-portifolio/.next"
+}
